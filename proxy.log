@@ -1,0 +1,23 @@
+Accepted connection from (localhost, 39880)
+Received proxy request for localhost:10020
+Forwarding request to localhost:10020
+Response received from localhost:10020
+Response sent to localhost:10020. Proxy content served
+Connection with localhost:10020 closed
+
+Accepted connection from (localhost, 39886)
+Received proxy request for localhost:10020
+Forwarding request to localhost:10020
+Response received from localhost:10020
+Response sent to localhost:10020. Proxy content served
+Connection with localhost:10020 closed
+
+Accepted connection from (localhost, 39892)
+Received proxy request for localhost:10020
+Forwarding request to localhost:10020
+Response received from localhost:10020
+Response sent to localhost:10020. Proxy content served
+Connection with localhost:10020 closed
+
+Accepted connection from (localhost, 39898)
+Received proxy request for localhost:10020

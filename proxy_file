@@ -1,0 +1,4 @@
+<html><title>Tiny Error</title><body bgcolor=ffffff>
+502: Bad Gateway
+<p>Proxy server could not connect to destination: localhost:8081
+<hr><em>The Tiny Web server</em>
